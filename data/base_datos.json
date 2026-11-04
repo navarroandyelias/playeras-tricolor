@@ -1,0 +1,32 @@
+{
+  "productos": [
+    {"id": 1, "nombre": "Playera Marvel Roja", "precio": 250, "stock": 15, "ventas": 45, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_1.jpeg"},
+    {"id": 2, "nombre": "Playera NASA Roja", "precio": 260, "stock": 5, "ventas": 12, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_2.jpeg"},
+    {"id": 3, "nombre": "Playera Amarilla con Azul", "precio": 250, "stock": 20, "ventas": 30, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_3.jpeg"},
+    {"id": 4, "nombre": "Playera Juventus Blanca/Negra", "precio": 270, "stock": 8, "ventas": 19, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_4.jpeg"},
+    {"id": 5, "nombre": "Playera Polo Verde Claro", "precio": 250, "stock": 40, "ventas": 5, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_5.jpeg"},
+    {"id": 6, "nombre": "Camisa Negra Casual", "precio": 280, "stock": 12, "ventas": 22, "estilo": "Formal", "genero": "Hombre", "imagen": "img/producto_6.jpeg"},
+    {"id": 7, "nombre": "Playera Deportiva Blanca", "precio": 260, "stock": 6, "ventas": 33, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_7.jpeg"},
+    {"id": 8, "nombre": "Playera Polo Verde Oscuro", "precio": 250, "stock": 25, "ventas": 14, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_8.jpeg"},
+    {"id": 9, "nombre": "Camisa Negra de Manga Larga", "precio": 290, "stock": 4, "ventas": 8, "estilo": "Formal", "genero": "Hombre", "imagen": "img/producto_9.jpeg"},
+    {"id": 10, "nombre": "Playera Estampada Azul", "precio": 250, "stock": 18, "ventas": 27, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_10.jpeg"},
+    {"id": 11, "nombre": "Playera Casual Gris", "precio": 270, "stock": 35, "ventas": 11, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_11.jpeg"},
+    {"id": 12, "nombre": "Playera Deportiva Roja", "precio": 260, "stock": 9, "ventas": 21, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_12.jpeg"},
+    {"id": 13, "nombre": "Playera Blanca Casual", "precio": 250, "stock": 22, "ventas": 16, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_13.jpeg"},
+    {"id": 14, "nombre": "Playera Estampada Negra", "precio": 300, "stock": 3, "ventas": 40, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_14.jpeg"},
+    {"id": 15, "nombre": "Playera Polo Azul Marino", "precio": 250, "stock": 14, "ventas": 18, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_15.jpeg"},
+    {"id": 16, "nombre": "Playera Polo Negra con Amarillo", "precio": 270, "stock": 11, "ventas": 25, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_16.jpeg"},
+    {"id": 17, "nombre": "Playera Polo Gris c/ Rayas", "precio": 260, "stock": 7, "ventas": 13, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_17.jpeg"},
+    {"id": 18, "nombre": "Playera Mangas Largas con Cuello", "precio": 250, "stock": 30, "ventas": 9, "estilo": "Formal", "genero": "Mujer", "imagen": "img/producto_18.jpeg"},
+    {"id": 19, "nombre": "Camiseta Gris", "precio": 280, "stock": 16, "ventas": 22, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_19.jpeg"},
+    {"id": 20, "nombre": "Playera Polo Roja", "precio": 290, "stock": 10, "ventas": 31, "estilo": "Informal", "genero": "Hombre", "imagen": "img/producto_20.jpeg"}
+  ],
+  "clientes": [
+    {"id": 1, "nombre": "Ana López", "correo": "ana@mail.com", "verificado": true, "telefono": "6681234567"},
+    {"id": 2, "nombre": "Carlos Pérez", "correo": "carlos@mail.com", "verificado": false, "telefono": "6689876543"}
+  ],
+  "proveedores": [
+    {"id": 1, "nombre": "Textiles del Pacífico S.A.", "contacto": "Lic. Martínez", "garantia": "30 días por defectos de fábrica", "telefono": "555123456"},
+    {"id": 2, "nombre": "Telas y Estampados Tricolor", "contacto": "Sofia Gomez", "garantia": "15 días en cierres y serigrafía", "telefono": "555987654"}
+  ]
+}
